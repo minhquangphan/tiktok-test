@@ -1,5 +1,5 @@
 import { useState } from "react";
-import Content from './useState';
+import Content from './Content';
 
 
 function App() {
